@@ -15,15 +15,15 @@ pip install requests
 
 # Repositorio:
 
-git clone https://github.com/MaksPV/AresBomb
 
-# Comando para ejecutar:
+https://github.com/Ezemz2015/EzzeBoom.git
+# Comando ejecutar:
 ```
 python EzzeBoom.py
 
 ```
 
-# Funciona de la herramienta:
+# Función de la herramienta:
 
 EzzeBoom es un script creado bajo el lenguaje de
 programacion Python.
